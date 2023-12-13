@@ -1,7 +1,7 @@
 import random
 
 print("Enter 1 for Stone")
-print("Enter 2 for paper")
+print("Enter 1 for paper")
 print("Enter 3 for Sessior")
 
 p_point=0
